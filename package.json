@@ -1,0 +1,12 @@
+{
+  "name": "ohe-logs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Livre de bord numérique - Ohé Sailing",
+  "dependencies": {
+    "@netlify/neon": "^0.1.2",
+    "resend": "^4.0.0",
+    "grib-js": "^1.0.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
